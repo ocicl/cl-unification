@@ -2,9 +2,9 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/cl-unification/cl-unification.git   |
-| commit  |   |
-| systems | cl-unification |
-|---------+-------------------------------------------|
+a295ad9---------+-------------------------------------------|
+a295ad9 source  | git:https://gitlab.common-lisp.net/cl-unification/cl-unification.git   |
+a295ad9 commit  |   |
+a295ad9 systems | cl-unification |
+a295ad9---------+-------------------------------------------|
 

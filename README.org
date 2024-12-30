@@ -4,6 +4,6 @@
 
 |---------+----------------------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/cl-unification/cl-unification.git |
-| commit  | 71e8654                                                              |
+| commit  | ea2853e                                                              |
 | systems | cl-unification                                                       |
 |---------+----------------------------------------------------------------------|
